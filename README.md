@@ -1,4 +1,8 @@
-# Bitly
+# Bitly, acortador de URL
+
+Aplicacion web que cumple con el fin de acortar una URL, trabajando con una API.
+
+Tecnologias utilizadas: Angulas 10 y Bootstrap.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
